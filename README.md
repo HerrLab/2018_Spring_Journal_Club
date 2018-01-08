@@ -8,7 +8,7 @@ This is the public repository for our Spring 2018 journal club.
 
 [The Canvas location for the course is here](https://canvas.unl.edu/courses/37769). You will need to be registered for the course via UNL to view this webpage.
 
-Our current reading list is located here: [text](link) & [bibtex](link).
+Our current reading list is located here: [text](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/citation_list.txt) & [bibtex](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/citations.bibtex).
 
 ## **Meeting Schedule**
 

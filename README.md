@@ -12,23 +12,23 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2018
 
 ## **Meeting Schedule**
 
-** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
+** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
-January 15 | Week 1 | Plant Sciences Room 406 | TIME | PERSON
-January 22 | Week 2 | Plant Sciences Room 406 | TIME | PERSON
-January 29 | Week 3 | Plant Sciences Room 406 | TIME | PERSON
-February 5 | Week 4 | Plant Sciences Room 406 | TIME | PERSON
-February 12 | Week 5 | Plant Sciences Room 406 | TIME | PERSON
-February 19 | Week 6 | Plant Sciences Room 406 | TIME | PERSON
-February 26 | Week 7 | Plant Sciences Room 406 | TIME | PERSON
-March 5 | Week 8 | Plant Sciences Room 406 | TIME | PERSON
-March 12 | Week 9 | Plant Sciences Room 406 | TIME | PERSON
-March 19 | SPRING BREAK | NA | NA | NA
-March 26 | Week 10 | Plant Sciences Room 406 | TIME | PERSON
-April 2 | Week 11 | Plant Sciences Room 406 | TIME | PERSON
-April 9 | Week 12 | Plant Sciences Room 406 | TIME | PERSON
-April 16 | Week 13 - Course Wrap Up | Plant Sciences Room 406 | TIME | PERSON
-April 23 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | TIME | PERSON
+January 17 | Week 1 | Plant Sciences Room 406 | 9 am | Josh
+January 24 | Week 2 | Plant Sciences Room 406 | TIME | PERSON
+January 31 | Week 3 | Plant Sciences Room 406 | TIME | PERSON
+February 7 | Week 4 | Plant Sciences Room 406 | TIME | PERSON
+February 14 | Week 5 | Plant Sciences Room 406 | TIME | PERSON
+February 21 | Week 6 | Plant Sciences Room 406 | TIME | PERSON
+February 28 | Week 7 | Plant Sciences Room 406 | TIME | Josh
+March 7 | Week 8 | Plant Sciences Room 406 | TIME | PERSON
+March 14 | Week 9 | Plant Sciences Room 406 | TIME | PERSON
+March 21 | SPRING BREAK | NA | NA | NA
+March 28 | Week 10 | Plant Sciences Room 406 | TIME | PERSON
+April 4 | Week 11 | Plant Sciences Room 406 | TIME | PERSON
+April 11 | Week 12 | Plant Sciences Room 406 | TIME | PERSON
+April 18 | Week 13 - Course Wrap Up | Plant Sciences Room 406 | TIME | Josh
+April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | TIME | Josh
 
 ## **Reading Schedule**
 
@@ -38,9 +38,12 @@ April 23 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | TIME | PERSON
 3. How I would like to proceed
 4. Schedule of participants
 
+READINGS:
+	1. Koide RT, Sharda JN, Herr JR & GM Malcolm (2008) Ectomycorrhizal fungi and the biotrophy-saprotrophy continuum. New Phytologist 178, 230–233
+	2. Newton AC, Fitt BDL, Atkins SD, Walters DR, and TJ Daniell (2010) Pathogenesis, parasitism, and mutualism in the trophic space of microbe-plant interactions. Trends in Microbiology 18: 365-373
+
 ### **WEEK 2**
 1. Readings:
-	* Koide, R. T., Sharda, J. N., Herr, J. R. & Malcolm, G. M. Ectomycorrhizal fungi and the biotrophy-saprotrophy continuum. New Phytologist 178, 230–233 (2008)
-	* ANOTHER READING
+	* 
 
 ### **WEEK 3**

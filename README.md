@@ -39,11 +39,13 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | TIME | Josh
 4. Schedule of participants
 
 READINGS:
-	1. [Koide RT, Sharda JN, Herr JR & GM Malcolm (2008) Ectomycorrhizal fungi and the biotrophy-saprotrophy continuum. New Phytologist 178, 230–233](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Koide%20et%20al%202008%20ectomycorrhizal%20fungi%20and%20the%20biotrophy-saprotrophy%20continuum.pdf)
-	2. [Newton AC, Fitt BDL, Atkins SD, Walters DR, and TJ Daniell (2010) Pathogenesis, parasitism, and mutualism in the trophic space of microbe-plant interactions. Trends in Microbiology 18: 365-373](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Newton%20et%20al%202010%20pathogenesis%20parasitism%20and%20mutualism%20in%20the%20trophic%20space%20of%20microbe-plant%20interactions%20REVIEW.pdf)
+1. [Koide RT, Sharda JN, Herr JR & GM Malcolm (2008) Ectomycorrhizal fungi and the biotrophy-saprotrophy continuum. New Phytologist 178, 230–233](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Koide%20et%20al%202008%20ectomycorrhizal%20fungi%20and%20the%20biotrophy-saprotrophy%20continuum.pdf)
+2. [Newton AC, Fitt BDL, Atkins SD, Walters DR, and TJ Daniell (2010) Pathogenesis, parasitism, and mutualism in the trophic space of microbe-plant interactions. Trends in Microbiology 18: 365-373](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Newton%20et%20al%202010%20pathogenesis%20parasitism%20and%20mutualism%20in%20the%20trophic%20space%20of%20microbe-plant%20interactions%20REVIEW.pdf)
 
 ### **WEEK 2**
 1. Readings:
-	* 
+2.
 
 ### **WEEK 3**
+1. Readings:
+2.

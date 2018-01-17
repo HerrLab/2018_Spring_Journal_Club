@@ -43,9 +43,71 @@ READINGS:
 2. [Newton AC, Fitt BDL, Atkins SD, Walters DR, and TJ Daniell (2010) Pathogenesis, parasitism, and mutualism in the trophic space of microbe-plant interactions. Trends in Microbiology 18: 365-373](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Newton%20et%20al%202010%20pathogenesis%20parasitism%20and%20mutualism%20in%20the%20trophic%20space%20of%20microbe-plant%20interactions%20REVIEW.pdf)
 
 ### **WEEK 2**
-1. Readings:
-2.
+Topic:
+Readings:
+1. 
+2. 
 
 ### **WEEK 3**
-1. Readings:
-2.
+Topic:
+Readings:
+1. 
+2. 
+
+### **WEEK 4**
+Topic:
+Readings:
+1. 
+2. 
+
+### **WEEK 5**
+Topic:
+Readings:
+1. 
+2. 
+
+### **WEEK 6**
+Topic:
+Readings:
+1. 
+2. 
+
+### **WEEK 7**
+Readings:
+1. 
+2. 
+
+### **WEEK 8**
+Readings:
+1. 
+2. 
+
+### **WEEK 9**
+Readings:
+1. 
+2. 
+
+### **WEEK 10**
+Readings:
+1. 
+2. 
+
+### **WEEK 11**
+Readings:
+1. 
+2. 
+
+### **WEEK 12**
+Readings:
+1. 
+2. 
+
+## **WEEK 13**
+Readings:
+1. 
+2. 
+
+## **WEEK 14**
+Readings:
+1. 
+2. 

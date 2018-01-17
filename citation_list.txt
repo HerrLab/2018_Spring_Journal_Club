@@ -1,8 +1,24 @@
-Hall, R. A. & Noverr, M. C. Fungal interactions with the human host: exploring the spectrum of symbiosis. Current Opinion in Microbiology 40, 58–64 (2017).
-Hibbett, D. S., Gilbert, L.-B. & Donoghue, M. J. Evolutionary instability of ectomycorrhizal symbioses in basidiomycetes. Nature 407, 506–508 (2000).
-Johnson, N. C., Graham, J. H. & Smith, F. A. Functioning of mycorrhizal associations along the mutualism--parasitism continuum. New Phytol. 135, 575–585 (1997).
-Jones, M. D. & Smith, S. E. Exploring functional definitions of mycorrhizas: are mycorrhizas always mutualisms? Canadian Journal of Botany 82, 1089–1109 (2004).
-Koide, R. T., Sharda, J. N., Herr, J. R. & Malcolm, G. M. Ectomycorrhizal fungi and the biotrophy-saprotrophy continuum. New Phytologist 178, 230–233 (2008).
-Melnyk, R. A. & Haney, C. H. Plant Pathology: Plasmid-powered evolutionary transitions. eLife 6, e33383 (2017).
-Parker, B. J., Hrček, J., McLean, A. H. & Godfray, H. C. J. Genotype specificity among hosts, pathogens, and beneficial microbes influences the strength of symbiont-mediated protection. Evolution 71, 1222–1231 (2017).
-Savory, E. A. et al. Evolutionary transitions between beneficial and phytopathogenic Rhodococcus challenge disease management. eLife 6, (2017).
+1. Carroll 1988 fungal endophytes in stems and leaves - from latent pathogen to mutualistic symbiont
+2. Douglas 2007 conflict cheats and the persistence of symbioses REVIEW
+3. Fesel & Zuccaro 2016 dissecting endophytic lifestyle along the parasitism-mutualism continuum REVIEW
+4. Freeman & Rodreguez 1993 genetic conversion of a fungal plant pathogen to a nonpathogenic endophytic mutualist
+5. Hall, R. A. & Noverr, M. C. Fungal interactions with the human host: exploring the spectrum of symbiosis. Current Opinion in Microbiology 40, 58–64 (2017).
+6. Hardoim et al 2015 the hidden world within plants ecological and evolutionary considerations for defining functioning of microbial endophytes
+7. Hibbett, D. S., Gilbert, L.-B. & Donoghue, M. J. Evolutionary instability of ectomycorrhizal symbioses in basidiomycetes. Nature 407, 506–508 (2000).
+8. Johnson, N. C., Graham, J. H. & Smith, F. A. Functioning of mycorrhizal associations along the mutualism--parasitism continuum. New Phytol. 135, 575–585 (1997).
+9. Jones, M. D. & Smith, S. E. Exploring functional definitions of mycorrhizas: are mycorrhizas always mutualisms? Canadian Journal of Botany 82, 1089–1109 (2004).
+10. Kobayashi & Crouch 2009 bacterial fungal interactions - from pathogens to mutualistic endosymbionts REVIEW
+11. Kohler et al 2015 convergent losses of decay mechanisms and rapid turnover of symbiosis genes in mycorrhizal mutualists
+12. Koide, R. T., Sharda, J. N., Herr, J. R. & Malcolm, G. M. Ectomycorrhizal fungi and the biotrophy-saprotrophy continuum. New Phytologist 178, 230–233 (2008).
+13. Lofgren et al 2018 fusarium graminearum - pathogen or endophyte of North American grasses
+14. Melnyk, R. A. & Haney, C. H. Plant Pathology: Plasmid-powered evolutionary transitions. eLife 6, e33383 (2017).
+15. Newton et al 2010 pathogenesis parasitism and mutualism in the trophic space of microbe-plant interactions REVIEW
+16. Parker, B. J., Hrček, J., McLean, A. H. & Godfray, H. C. J. Genotype specificity among hosts, pathogens, and beneficial microbes influences the strength of symbiont-mediated protection. Evolution 71, 1222–1231 (2017).
+17. Redman et al 2001 fungal symbiosis from mutualism to parasitism - who controls the outcome - host or invader
+18. Savory, E. A. et al. Evolutionary transitions between beneficial and phytopathogenic Rhodococcus challenge disease management. eLife 6, (2017).Baldrian & Kohout 2017 interactions of saprotrophic fungi with tree roots can we observe the emergence of novel ectomycorrhizal fungi
+19. Selosse et al 2018 time to re-think fungal ecology - fungal ecological niches are often prejudged COMMENTARY
+20. Smith et al 2017 growing evidence for facultative biotrophy in saprotrophic fungi data from microcosm tests with 201 species of wood-decay basidiomycetes
+21. Soto et al 2009 Mutualism versus pathogenesis - the give-and-take in plant-bacteria interactions
+22. Soto et al 2011 pathogenic and mutualistic plant-bacteria interactions - ever increasing similarities REVIEW
+23. Tuovinen et al 2015 no support for occurence of free-living Cladonia mycobionts in dead wood
+24. Wedin et al 2004 Saprotrophy and lichenization as options for the same fungal species on different substrata

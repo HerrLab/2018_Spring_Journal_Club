@@ -20,8 +20,8 @@ January 31 | Week 3 | Plant Sciences Room 406 | 9 am | PERSON
 February 7 | Week 4 | Plant Sciences Room 406 | 9 am | PERSON
 February 14 | Week 5 | Plant Sciences Room 406 | 9 am | PERSON
 February 21 | Week 6 | Plant Sciences Room 406 | 9 am | PERSON
-February 28 | Week 7 | Plant Sciences Room 406 | 9 am | Josh
-March 7 | Week 8 | Plant Sciences Room 406 | 9 am | PERSON
+February 28 | Week 7 | Plant Sciences Room 406 | 9 am | PERSON
+March 7 | Week 8 | Plant Sciences Room 406 | 9 am | Josh
 March 14 | Week 9 | Plant Sciences Room 406 | 9 am | PERSON
 March 21 | SPRING BREAK | NA | NA | NA
 March 28 | Week 10 | Plant Sciences Room 406 | 9 am | PERSON
@@ -56,7 +56,7 @@ Readings:
 3. [Martino et al (2017) comparative genomics and transcriptomics depict ericoid mycorrhizal fungi as versatile saprotrphohs and plant mutualists New Phytologist 217: 1213–1229](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Martino%20et%20al%202017%20comparative%20genomics%20and%20transcriptomics%20depict%20ericoid%20mycorrhizal%20fungi%20as%20versatile%20saprotrphohs%20and%20plant%20mutualists.pdf)
 
 ### **WEEK 3**
-TOPIC:
+TOPIC: A fine line between pathogen and plant growth promoting buddy
 
 AGENDA:
 1.
@@ -67,7 +67,7 @@ Readings:
 2.
 
 ### **WEEK 4**
-TOPIC:
+TOPIC: Lichen symbiosis? - or are fungi just evil jails for helpless algae?
 
 AGENDA:
 1.
@@ -78,7 +78,7 @@ Readings:
 2.
 
 ### **WEEK 5**
-TOPIC:
+TOPIC: Mycorrhizal fungi? Symbiont? Parasite? Helpless slave? or smart opportunist waiting for the plant to die?
 
 AGENDA:
 1.
@@ -89,7 +89,7 @@ Readings:
 2.
 
 ### **WEEK 6**
-TOPIC:
+TOPIC: Viruses? Just waiting around for something?
 
 AGENDA:
 1.

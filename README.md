@@ -16,7 +16,7 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2018
 :-----:|:-----:|:-----:|:-----:|:-----:
 January 17 | Week 1 | Plant Sciences Room 406 | 9 am | Josh
 January 24 | Week 2 | Plant Sciences Room 406 | 9 am | Josh
-January 31 | Week 3 | Plant Sciences Room 406 | 9 am | PERSON
+January 31 | Week 3 | Plant Sciences Room 406 | 9 am | Thais
 February 7 | Week 4 | Plant Sciences Room 406 | 9 am | PERSON
 February 14 | Week 5 | Plant Sciences Room 406 | 9 am | PERSON
 February 21 | Week 6 | Plant Sciences Room 406 | 9 am | PERSON
@@ -59,12 +59,12 @@ Readings:
 TOPIC: A fine line between pathogen and plant growth promoting buddy
 
 AGENDA:
-1.
-2. Discuss
+1. Any Announcements?
+2. Discuss Papers
 
 Readings:
-1.
-2.
+1. [Melnyk & Haney 2017 plasmid-powered evolutionary transitions](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Melnyk%20%26%20Haney%202017%20plasmid-powered%20evolutionary%20transitions%20COMMENTARY.pdf)
+2. [Savory et al 2017 evolutionary transitions between ebenficial and phytopathogenic Rhodococcus challenge disease management](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Savory%20et%20al%202017%20evolutionary%20transitions%20between%20ebenficial%20and%20phytopathogenic%20Rhodococcus%20challenge%20disease%20management.pdf)
 
 ### **WEEK 4**
 TOPIC: Lichen symbiosis? - or are fungi just evil jails for helpless algae?

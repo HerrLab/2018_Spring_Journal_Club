@@ -17,7 +17,7 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2018
 January 17 | Week 1 | Plant Sciences Room 406 | 9 am | Josh
 January 24 | Week 2 | Plant Sciences Room 406 | 9 am | Josh
 January 31 | Week 3 | Plant Sciences Room 406 | 9 am | Thais
-February 7 | Week 4 | Plant Sciences Room 406 | 9 am | PERSON
+February 7 | Week 4 | Plant Sciences Room 406 | 9 am | Erin
 February 14 | Week 5 | Plant Sciences Room 406 | 9 am | PERSON
 February 21 | Week 6 | Plant Sciences Room 406 | 9 am | PERSON
 February 28 | Week 7 | Plant Sciences Room 406 | 9 am | PERSON
@@ -70,12 +70,13 @@ Readings:
 TOPIC: Lichen symbiosis? - or are fungi just evil jails for helpless algae?
 
 AGENDA:
-1.
+1. Any Announcements?
 2. Discuss
 
 Readings:
-1.
-2.
+1. [Tuovinen et al 2015 no support for occurence of free-living Cladonia mycobionts in dead wood](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Tuovinen%20et%20al%202015%20no%20support%20for%20occurence%20of%20free-living%20Cladonia%20mycobionts%20in%20dead%20wood.pdf)
+2. [Wedin et al 2004 Saprotrophy and lichenization as options for the same fungal species on different substrata](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Wedin%20et%20al%202004%20Saprotrophy%20and%20lichenization%20as%20options%20for%20the%20same%20fungal%20species%20on%20different%20substrata.pdf)
+
 
 ### **WEEK 5**
 TOPIC: Mycorrhizal fungi? Symbiont? Parasite? Helpless slave? or smart opportunist waiting for the plant to die?

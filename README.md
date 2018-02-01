@@ -71,7 +71,8 @@ TOPIC: Lichen symbiosis? - or are fungi just evil jails for helpless algae?
 
 AGENDA:
 1. Any Announcements?
-2. Discuss
+2. Talk about how cool lichens are
+3. Discuss
 
 Readings:
 1. [Tuovinen et al 2015 no support for occurence of free-living Cladonia mycobionts in dead wood](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Tuovinen%20et%20al%202015%20no%20support%20for%20occurence%20of%20free-living%20Cladonia%20mycobionts%20in%20dead%20wood.pdf)

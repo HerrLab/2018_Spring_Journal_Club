@@ -18,9 +18,9 @@ January 17 | Week 1 | Plant Sciences Room 406 | 9 am | Josh
 January 24 | Week 2 | Plant Sciences Room 406 | 9 am | Josh
 January 31 | Week 3 | Plant Sciences Room 406 | 9 am | Thais
 February 7 | Week 4 | Plant Sciences Room 406 | 9 am | Erin
-February 14 | Week 5 | Plant Sciences Room 406 | 9 am | PERSON
-February 21 | Week 6 | Plant Sciences Room 406 | 9 am | PERSON
-February 28 | Week 7 | Plant Sciences Room 406 | 9 am | PERSON
+February 14 | Week 5 | Plant Sciences Room 406 | 9 am | Eddie
+February 21 | Week 6 | Plant Sciences Room 406 | 9 am | Timothy
+February 28 | Week 7 | Plant Sciences Room 406 | 9 am | Sammy
 March 7 | Week 8 | Plant Sciences Room 406 | 9 am | Josh
 March 14 | Week 9 | Plant Sciences Room 406 | 9 am | PERSON
 March 21 | SPRING BREAK | NA | NA | NA
@@ -41,9 +41,7 @@ AGENDA:
 
 Readings:
 1. [Baldrian & Kohout 2017 interactions of saprotrophic fungi with tree roots can we observe the emergence of novel ectomycorrhizal fungi](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Baldrian%20%26%20Kohout%202017%20interactions%20of%20saprotrophic%20fungi%20with%20tree%20roots%20can%20we%20observe%20the%20emergence%20of%20novel%20ectomycorrhizal%20fungi.pdf)
-2. [Hibbett et al 2000 evolutionary instability of ectomycorrhizal symbioses in basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Hibbett%20et%20al%202000%20evolutionary%20instability%20of%20ectomycorrhizal%20symbioses%20in%20basidiomycetes.pdf)
-3. [Jones & Smith 2004 exploring functional definitions of mycorrhizas - are mycorrhizas always mutualisms](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Jones%20%26%20Smith%202004%20exploring%20functional%20definitions%20of%20mycorrhizas%20-%20are%20mycorrhizas%20always%20mutualisms.pdf)
-4. [Smith et al 2017 growing evidence for facultative biotrophy in saprotrophic fungi data from microcosm tests with 201 species of wood-decay basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Smith%20et%20al%202017%20growing%20evidence%20for%20facultative%20biotrophy%20in%20saprotrophic%20fungi%20data%20from%20microcosm%20tests%20with%20201%20species%20of%20wood-decay%20basidiomycetes.pdf)
+2. [Smith et al 2017 growing evidence for facultative biotrophy in saprotrophic fungi data from microcosm tests with 201 species of wood-decay basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Smith%20et%20al%202017%20growing%20evidence%20for%20facultative%20biotrophy%20in%20saprotrophic%20fungi%20data%20from%20microcosm%20tests%20with%20201%20species%20of%20wood-decay%20basidiomycetes.pdf)
 
 ### **WEEK 6**
 TOPIC: Viruses? Just waiting around for something?
@@ -191,4 +189,9 @@ AGENDA:
 Readings:
 1. [Tuovinen et al 2015 no support for occurence of free-living Cladonia mycobionts in dead wood](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Tuovinen%20et%20al%202015%20no%20support%20for%20occurence%20of%20free-living%20Cladonia%20mycobionts%20in%20dead%20wood.pdf)
 2. [Wedin et al 2004 Saprotrophy and lichenization as options for the same fungal species on different substrata](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Wedin%20et%20al%202004%20Saprotrophy%20and%20lichenization%20as%20options%20for%20the%20same%20fungal%20species%20on%20different%20substrata.pdf)
+
+
+NOTES:
+1. [Hibbett et al 2000 evolutionary instability of ectomycorrhizal symbioses in basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Hibbett%20et%20al%202000%20evolutionary%20instability%20of%20ectomycorrhizal%20symbioses%20in%20basidiomycetes.pdf)
+2. [Jones & Smith 2004 exploring functional definitions of mycorrhizas - are mycorrhizas always mutualisms](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Jones%20%26%20Smith%202004%20exploring%20functional%20definitions%20of%20mycorrhizas%20-%20are%20mycorrhizas%20always%20mutualisms.pdf)
 

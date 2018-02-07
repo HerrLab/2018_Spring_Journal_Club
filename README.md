@@ -32,19 +32,6 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 
 ## **Upcoming Reading Schedule**
 
-### **WEEK 4**
-TOPIC: Lichen symbiosis? - or are fungi just evil jails for helpless algae?
-
-AGENDA:
-1. Any Announcements?
-2. Discuss
-3. Discuss readings for next week
-
-Readings:
-1. [Tuovinen et al 2015 no support for occurence of free-living Cladonia mycobionts in dead wood](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Tuovinen%20et%20al%202015%20no%20support%20for%20occurence%20of%20free-living%20Cladonia%20mycobionts%20in%20dead%20wood.pdf)
-2. [Wedin et al 2004 Saprotrophy and lichenization as options for the same fungal species on different substrata](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Wedin%20et%20al%202004%20Saprotrophy%20and%20lichenization%20as%20options%20for%20the%20same%20fungal%20species%20on%20different%20substrata.pdf)
-
-
 ### **WEEK 5**
 TOPIC: Mycorrhizal fungi? Symbiont? Parasite? Helpless slave? or smart opportunist waiting for the plant to die?
 
@@ -192,4 +179,16 @@ AGENDA:
 Readings:
 1. [Melnyk & Haney 2017 plasmid-powered evolutionary transitions](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Melnyk%20%26%20Haney%202017%20plasmid-powered%20evolutionary%20transitions%20COMMENTARY.pdf)
 2. [Savory et al 2017 evolutionary transitions between ebenficial and phytopathogenic Rhodococcus challenge disease management](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Savory%20et%20al%202017%20evolutionary%20transitions%20between%20ebenficial%20and%20phytopathogenic%20Rhodococcus%20challenge%20disease%20management.pdf)
+
+### **WEEK 4**
+TOPIC: Lichen symbiosis? - or are fungi just evil jails for helpless algae?
+
+AGENDA:
+1. Any Announcements?
+2. Discuss
+3. Discuss readings for next week
+
+Readings:
+1. [Tuovinen et al 2015 no support for occurence of free-living Cladonia mycobionts in dead wood](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Tuovinen%20et%20al%202015%20no%20support%20for%20occurence%20of%20free-living%20Cladonia%20mycobionts%20in%20dead%20wood.pdf)
+2. [Wedin et al 2004 Saprotrophy and lichenization as options for the same fungal species on different substrata](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Wedin%20et%20al%202004%20Saprotrophy%20and%20lichenization%20as%20options%20for%20the%20same%20fungal%20species%20on%20different%20substrata.pdf)
 

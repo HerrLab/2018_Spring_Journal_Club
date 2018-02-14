@@ -40,8 +40,8 @@ AGENDA:
 2. Discuss
 
 Readings:
-1.https://www.jci.org/articles/view/21318
-2.
+1. [Roossinck 2015 viruses make their mark as mutualistic microbial symbionts](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Roossinck%202015%20viruses%20make%20their%20mark%20as%20mutualistic%20microbial%20symbionts.pdf)
+2. [Deeks & Walker 2004 the immune response in AIDS virus infection good bad or both](https://www.jci.org/articles/view/21318)
 
 ### **WEEK 7**
 TOPIC:

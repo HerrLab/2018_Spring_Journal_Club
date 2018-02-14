@@ -192,7 +192,7 @@ Readings:
 
 
 
-NOTES:
+LIST OF POSSIBLE READINGS:
 1. [Hibbett et al 2000 evolutionary instability of ectomycorrhizal symbioses in basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Hibbett%20et%20al%202000%20evolutionary%20instability%20of%20ectomycorrhizal%20symbioses%20in%20basidiomycetes.pdf)
 2. [Jones & Smith 2004 exploring functional definitions of mycorrhizas - are mycorrhizas always mutualisms](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Jones%20%26%20Smith%202004%20exploring%20functional%20definitions%20of%20mycorrhizas%20-%20are%20mycorrhizas%20always%20mutualisms.pdf)
 

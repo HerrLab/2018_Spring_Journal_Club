@@ -36,100 +36,100 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 TOPIC: Viruses? Just waiting around for something?
 
 AGENDA:
-1. Any Issues?
-2. Discuss
+1. Announcments?
+2. Discuss Papers
 
 Readings:
 1. [Roossinck 2015 viruses make their mark as mutualistic microbial symbionts](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Roossinck%202015%20viruses%20make%20their%20mark%20as%20mutualistic%20microbial%20symbionts.pdf)
 2. [Deeks & Walker 2004 the immune response in AIDS virus infection good bad or both](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Deeks%20%26%20Walker%202004%20the%20immune%20response%20in%20AIDS%20virus%20infection%20good%20bad%20or%20both%20COMMENTARY.pdf)
 
 ### **WEEK 7**
-TOPIC:
+TOPIC: TBA
 
 AGENDA:
-1.
-2. Discuss
+1. Announcments?
+2. Discuss Papers
 
 Readings:
-1.
-2.
+1. [TBA]()
+2. [TBA]()
 
 ### **WEEK 8**
-TOPIC:
+TOPIC: TBA
 
 AGENDA:
-1.
-2. Discuss
+1. Announcments?
+2. Discuss Papers
 
 Readings:
-1.
-2.
+1. [TBA]()
+2. [TBA]()
 
 ### **WEEK 9**
-TOPIC:
+TOPIC: TBA
 
 AGENDA:
-1.
-2. Discuss
+1. Announcments?
+2. Discuss Papers
 
 Readings:
-1.
-2.
+1. [TBA]()
+2. [TBA]()
 
 ### **WEEK 10**
-TOPIC:
+TOPIC: TBA
 
 AGENDA:
-1.
-2. Discuss
+1. Announcments?
+2. Discuss Papers
 
 Readings:
-1.
-2.
+1. [TBA]()
+2. [TBA]()
 
 ### **WEEK 11**
-TOPIC:
+TOPIC: TBA
 
 AGENDA:
-1.
-2. Discuss
+1. Announcments?
+2. Discuss Papers
 
 Readings:
-1.
-2.
+1. [TBA]()
+2. [TBA]()
 
 ### **WEEK 12**
-TOPIC:
+TOPIC: TBA
 
 AGENDA:
-1.
-2. Discuss
+1. Announcments?
+2. Discuss Papers
 
 Readings:
-1.
-2.
+1. [TBA]()
+2. [TBA]()
 
 ## **WEEK 13**
-TOPIC:
+TOPIC: TBA
 
 AGENDA:
-1.
-2. Discuss
+1. Announcments?
+2. Discuss Papers
 
 Readings:
-1.
-2.
+1. [TBA]()
+2. [TBA]()
 
 ## **WEEK 14**
-TOPIC:
+TOPIC: TBA
 
 AGENDA:
-1.
-2. Discuss
+1. Announcments?
+2. Josh wraps things up
 
 Readings:
-1.
-2.
+1. [TBA]()
+2. [TBA]()
 
 ## *Previous Weeks Readings*
 

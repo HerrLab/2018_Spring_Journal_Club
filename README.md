@@ -44,14 +44,14 @@ Readings:
 2. [Deeks & Walker 2004 the immune response in AIDS virus infection good bad or both](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Deeks%20%26%20Walker%202004%20the%20immune%20response%20in%20AIDS%20virus%20infection%20good%20bad%20or%20both%20COMMENTARY.pdf)
 
 ### **WEEK 7**
-TOPIC: TBA
+TOPIC: "I got worms!" "....I beg your pardon?"
 
 AGENDA:
 1. Announcments?
 2. Discuss Papers
 
 Readings:
-1. [TBA]()
+1. https://pdfs.semanticscholar.org/8091/3d8447f87dac4037e15249d723cf1e2e43d0.pdf
 2. [TBA]()
 
 ### **WEEK 8**

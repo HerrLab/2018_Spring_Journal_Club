@@ -32,16 +32,6 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 
 ## **Upcoming Reading Schedule**
 
-### **WEEK 6**
-TOPIC: Viruses? Just waiting around for something?
-
-AGENDA:
-1. Announcments?
-2. Discuss Papers
-
-Readings:
-1. [Roossinck 2015 viruses make their mark as mutualistic microbial symbionts](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Roossinck%202015%20viruses%20make%20their%20mark%20as%20mutualistic%20microbial%20symbionts.pdf)
-2. [Deeks & Walker 2004 the immune response in AIDS virus infection good bad or both](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Deeks%20%26%20Walker%202004%20the%20immune%20response%20in%20AIDS%20virus%20infection%20good%20bad%20or%20both%20COMMENTARY.pdf)
 
 ### **WEEK 7**
 TOPIC: "I got worms!" "....I beg your pardon?"
@@ -51,8 +41,8 @@ AGENDA:
 2. Discuss Papers
 
 Readings:
-1. https://pdfs.semanticscholar.org/8091/3d8447f87dac4037e15249d723cf1e2e43d0.pdf
-2. [TBA]()
+1. [Allergy, Parasites, and the Hygiene Hypothesis](https://pdfs.semanticscholar.org/8091/3d8447f87dac4037e15249d723cf1e2e43d0.pdf)
+2. [Nematode–bacteria mutualism: Selection within the mutualism supersedes selection outside of the mutualism]()
 
 ### **WEEK 8**
 TOPIC: TBA
@@ -190,9 +180,19 @@ Readings:
 1. [Baldrian & Kohout 2017 interactions of saprotrophic fungi with tree roots can we observe the emergence of novel ectomycorrhizal fungi](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Baldrian%20%26%20Kohout%202017%20interactions%20of%20saprotrophic%20fungi%20with%20tree%20roots%20can%20we%20observe%20the%20emergence%20of%20novel%20ectomycorrhizal%20fungi.pdf)
 2. [Smith et al 2017 growing evidence for facultative biotrophy in saprotrophic fungi data from microcosm tests with 201 species of wood-decay basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Smith%20et%20al%202017%20growing%20evidence%20for%20facultative%20biotrophy%20in%20saprotrophic%20fungi%20data%20from%20microcosm%20tests%20with%20201%20species%20of%20wood-decay%20basidiomycetes.pdf)
 
+### **WEEK 6**
+TOPIC: Viruses? Just waiting around for something?
+
+AGENDA:
+1. Announcments?
+2. Discuss Papers
+
+Readings:
+1. [Roossinck 2015 viruses make their mark as mutualistic microbial symbionts](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Roossinck%202015%20viruses%20make%20their%20mark%20as%20mutualistic%20microbial%20symbionts.pdf)
+2. [Deeks & Walker 2004 the immune response in AIDS virus infection good bad or both](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Deeks%20%26%20Walker%202004%20the%20immune%20response%20in%20AIDS%20virus%20infection%20good%20bad%20or%20both%20COMMENTARY.pdf)
 
 
-LIST OF POSSIBLE READINGS:
+On Deck:
 1. [Hibbett et al 2000 evolutionary instability of ectomycorrhizal symbioses in basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Hibbett%20et%20al%202000%20evolutionary%20instability%20of%20ectomycorrhizal%20symbioses%20in%20basidiomycetes.pdf)
 2. [Jones & Smith 2004 exploring functional definitions of mycorrhizas - are mycorrhizas always mutualisms](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Jones%20%26%20Smith%202004%20exploring%20functional%20definitions%20of%20mycorrhizas%20-%20are%20mycorrhizas%20always%20mutualisms.pdf)
 

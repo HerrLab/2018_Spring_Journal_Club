@@ -41,8 +41,8 @@ AGENDA:
 2. Discuss Papers
 
 Readings:
-1. [Allergy, Parasites, and the Hygiene Hypothesis](https://pdfs.semanticscholar.org/8091/3d8447f87dac4037e15249d723cf1e2e43d0.pdf)
-2. [Nematode–bacteria mutualism: Selection within the mutualism supersedes selection outside of the mutualism]()
+1. [Yazdanbakhsh et al 2002 allergy parasites and the hygiene hypothesis](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Yazdanbakhsh%20et%20al%202002%20allergy%20parasites%20and%20the%20hygiene%20hypothesis.pdf)
+2. [Morran et al 2016 Nematode–bacteria mutualism: Selection within the mutualism supersedes selection outside of the mutualism](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Morran%20et%20al%202016%20nematode-bacteria%20mutualism%20selection%20within%20the%20mutualism%20supercedes%20selection%20outside%20of%20the%20mutualism.pdf)
 
 ### **WEEK 8**
 TOPIC: TBA
@@ -99,7 +99,7 @@ Readings:
 1. [TBA]()
 2. [TBA]()
 
-## **WEEK 13**
+### **WEEK 13**
 TOPIC: TBA
 
 AGENDA:
@@ -110,7 +110,7 @@ Readings:
 1. [TBA]()
 2. [TBA]()
 
-## **WEEK 14**
+### **WEEK 14**
 TOPIC: TBA
 
 AGENDA:
@@ -192,7 +192,8 @@ Readings:
 2. [Deeks & Walker 2004 the immune response in AIDS virus infection good bad or both](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Deeks%20%26%20Walker%202004%20the%20immune%20response%20in%20AIDS%20virus%20infection%20good%20bad%20or%20both%20COMMENTARY.pdf)
 
 
-On Deck:
+### On Deck:
 1. [Hibbett et al 2000 evolutionary instability of ectomycorrhizal symbioses in basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Hibbett%20et%20al%202000%20evolutionary%20instability%20of%20ectomycorrhizal%20symbioses%20in%20basidiomycetes.pdf)
 2. [Jones & Smith 2004 exploring functional definitions of mycorrhizas - are mycorrhizas always mutualisms](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Jones%20%26%20Smith%202004%20exploring%20functional%20definitions%20of%20mycorrhizas%20-%20are%20mycorrhizas%20always%20mutualisms.pdf)
+3. [Jones & Dangl 2006 The Plant Immune System](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Jones%20%26%20Dangl%202006%20the%20plant%20immune%20system%20REVIEW.pdf)
 

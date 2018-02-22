@@ -19,15 +19,15 @@ January 24 | Week 2 | Plant Sciences Room 406 | 9 am | Josh
 January 31 | Week 3 | Plant Sciences Room 406 | 9 am | Thais
 February 7 | Week 4 | Plant Sciences Room 406 | 9 am | Erin
 February 14 | Week 5 | Plant Sciences Room 406 | 9 am | Eddie
-February 21 | Week 6 | Plant Sciences Room 406 | 9 am | Timothy
+February 21 | Week 6 | Plant Sciences Room 406 | 9 am | Josh
 February 28 | Week 7 | Plant Sciences Room 406 | 9 am | Sammy
-March 7 | Week 8 | Plant Sciences Room 406 | 9 am | Josh
+March 7 | Week 8 | Plant Sciences Room 406 | 9 am | Timothy?
 March 14 | Week 9 | Plant Sciences Room 406 | 9 am | PERSON
 March 21 | SPRING BREAK | NA | NA | NA
 March 28 | Week 10 | Plant Sciences Room 406 | 9 am | PERSON
 April 4 | Week 11 | Plant Sciences Room 406 | 9 am | PERSON
 April 11 | Week 12 | Plant Sciences Room 406 | 9 am | PERSON
-April 18 | Week 13 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
+April 18 | Week 13 | Plant Sciences Room 406 | 9 am | PERSON
 April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 
 ## **Upcoming Reading Schedule**

@@ -33,27 +33,17 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 ## **Upcoming Reading Schedule**
 
 
-### **WEEK 7**
-TOPIC: "I got worms!" "....I beg your pardon?"
-
-AGENDA:
-1. Announcments?
-2. Discuss Papers
-
-Readings:
-1. [Yazdanbakhsh et al 2002 allergy parasites and the hygiene hypothesis](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Yazdanbakhsh%20et%20al%202002%20allergy%20parasites%20and%20the%20hygiene%20hypothesis.pdf)
-2. [Morran et al 2016 Nematode–bacteria mutualism: Selection within the mutualism supersedes selection outside of the mutualism](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Morran%20et%20al%202016%20nematode-bacteria%20mutualism%20selection%20within%20the%20mutualism%20supercedes%20selection%20outside%20of%20the%20mutualism.pdf)
-
 ### **WEEK 8**
 TOPIC: TBA
 
 AGENDA:
 1. Announcments?
 2. Discuss Papers
+3. Go over manuscript outline and writing duties
 
 Readings:
-1. [TBA]()
-2. [TBA]()
+1. [Fesel & Zuccaro 2016 dissecting endophytic lifestyle along the parasitism-mutualism continuum](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Fesel%20%26%20Zuccaro%202016%20dissecting%20endophytic%20lifestyle%20along%20the%20parasitism-mutualism%20continuum%20REVIEW.pdf)
+2. [Hall & Moverr 2017 fungal interactions with the human host - exploiting the spectrum of symbiosis](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Hall%20%26%20Moverr%202017%20fungal%20interactions%20with%20the%20human%20host%20-%20exploiting%20the%20spectrum%20of%20symbiosis%20REVIEW.pdf)
 
 ### **WEEK 9**
 TOPIC: TBA
@@ -190,6 +180,17 @@ AGENDA:
 Readings:
 1. [Roossinck 2015 viruses make their mark as mutualistic microbial symbionts](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Roossinck%202015%20viruses%20make%20their%20mark%20as%20mutualistic%20microbial%20symbionts.pdf)
 2. [Deeks & Walker 2004 the immune response in AIDS virus infection good bad or both](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Deeks%20%26%20Walker%202004%20the%20immune%20response%20in%20AIDS%20virus%20infection%20good%20bad%20or%20both%20COMMENTARY.pdf)
+
+### **WEEK 7**
+TOPIC: "I got worms!" "....I beg your pardon?"
+
+AGENDA:
+1. Announcments?
+2. Discuss Papers
+
+Readings:
+1. [Yazdanbakhsh et al 2002 allergy parasites and the hygiene hypothesis](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Yazdanbakhsh%20et%20al%202002%20allergy%20parasites%20and%20the%20hygiene%20hypothesis.pdf)
+2. [Morran et al 2016 Nematode–bacteria mutualism: Selection within the mutualism supersedes selection outside of the mutualism](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Morran%20et%20al%202016%20nematode-bacteria%20mutualism%20selection%20within%20the%20mutualism%20supercedes%20selection%20outside%20of%20the%20mutualism.pdf)
 
 
 ### On Deck:

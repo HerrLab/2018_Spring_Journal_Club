@@ -33,16 +33,15 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 ## **Upcoming Reading Schedule**
 
 ### **WEEK 9**
-TOPIC: TBA
+TOPIC: Have what we've been talking about all wrong? Are there clear divides in life history traits?
 
 AGENDA:
 1. Announcments?
-2. Discuss Papers
+2. Discuss Paper
 3. Go over manuscript outline and writing duties
 
 Readings:
-1. [TBA]()
-2. [TBA]()
+1. [Karpinets et al 2014 metabolic environments and genomic features associated with pathogenic and mutualistic interaction]()
 
 ### **WEEK 10**
 TOPIC: TBA

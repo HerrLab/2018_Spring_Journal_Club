@@ -41,7 +41,7 @@ AGENDA:
 3. Go over manuscript outline and writing duties
 
 Readings:
-1. [Karpinets et al 2014 metabolic environments and genomic features associated with pathogenic and mutualistic interaction](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Karpinets%20et%20al%202014%20metabolic%20environments%20and%20genomic%20features%20associated%20with%20pathogenic%20and%20mutualistic%20interaction.pdf)
+1. [Karpinets et al 2014 metabolic environments and genomic features associated with pathogenic and mutualistic interaction](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Karpinets%20et%20al%202014%20metabolic%20environments%20and%20genomic%20features%20associated%20with%20pathogenic%20and%20mutualistic%20interactions.pdf)
 
 ### **WEEK 10**
 TOPIC: TBA

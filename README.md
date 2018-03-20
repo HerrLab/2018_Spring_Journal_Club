@@ -22,7 +22,7 @@ February 14 | Week 5 | Plant Sciences Room 406 | 9 am | Eddie
 February 21 | Week 6 | Plant Sciences Room 406 | 9 am | Josh
 February 28 | Week 7 | Plant Sciences Room 406 | 9 am | Sammy
 March 7 | Week 8 | Plant Sciences Room 406 | 9 am | Thais
-March 14 | Week 9 | Plant Sciences Room 406 | 9 am | Timothy?
+March 14 | Week 9 | Plant Sciences Room 406 | 9 am | Timothy
 March 21 | SPRING BREAK | NA | NA | NA
 March 28 | Week 10 | Plant Sciences Room 406 | 9 am | Sammy
 April 4 | Week 11 | Plant Sciences Room 406 | 9 am | Eddie
@@ -32,44 +32,34 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 
 ## **Upcoming Reading Schedule**
 
-### **WEEK 9**
-TOPIC: Have what we've been talking about all wrong? Are there clear divides in life history traits?
+### **WEEK 10**
+TOPIC: Is it the Host or Microbe Genotype?
 
 AGENDA:
-1. Announcments?
-2. Discuss Paper
+1. Announcements?
+2. Discuss Papers
 3. Go over manuscript outline and writing duties
 
 Readings:
-1. [Karpinets et al 2014 metabolic environments and genomic features associated with pathogenic and mutualistic interaction](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Karpinets%20et%20al%202014%20metabolic%20environments%20and%20genomic%20features%20associated%20with%20pathogenic%20and%20mutualistic%20interactions.pdf)
-
-### **WEEK 10**
-TOPIC: TBA
-
-AGENDA:
-1. Announcments?
-2. Discuss Papers
-
-Readings:
-1. [TBA]()
-2. [TBA]()
+1. [Redman et al 2001 fungal symbiosis from mutualism to parasitism - who controls the outcome - host or invader](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Redman%20et%20al%202001%20fungal%20symbiosis%20from%20mutualism%20to%20parasitism%20-%20who%20controls%20the%20outcome%20-%20host%20or%20invader.pdf)
+2. [Parker et al 2017 genotype specificity among hosts pathogens and beneficial microbes influences the strength of symbiont-mediated protection](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Parker%20et%20al%202017%20genotype%20specificity%20among%20hosts%20pathogens%20and%20beneficial%20microbes%20influences%20the%20strength%20of%20symbiont-mediated%20protection.pdf)
 
 ### **WEEK 11**
-TOPIC: TBA
+TOPIC: Things Fall Apart?
 
 AGENDA:
-1. Announcments?
+1. Announcements?
 2. Discuss Papers
 
 Readings:
-1. [TBA]()
-2. [TBA]()
+1. [Douglas 2007 conflict cheats and the persistence of symbioses](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Douglas%202007%20conflict%20cheats%20and%20the%20persistence%20of%20symbioses%20REVIEW.pdf)
+2. [Keeling & McCutcheon 2017 Endosymbiosis - the feeling is not mutual](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Keeling%20%26%20McCutcheon%202017%20Endosymbiosis%20the%20feeling%20is%20not%20mutual.pdf)
 
 ### **WEEK 12**
 TOPIC: TBA
 
 AGENDA:
-1. Announcments?
+1. Announcements?
 2. Discuss Papers
 
 Readings:
@@ -80,7 +70,7 @@ Readings:
 TOPIC: TBA
 
 AGENDA:
-1. Announcments?
+1. Announcements?
 2. Discuss Papers
 
 Readings:
@@ -88,15 +78,11 @@ Readings:
 2. [TBA]()
 
 ### **WEEK 14**
-TOPIC: TBA
+TOPIC: Wrapping the journal club up!
 
 AGENDA:
-1. Announcments?
-2. Josh wraps things up
-
-Readings:
-1. [TBA]()
-2. [TBA]()
+1. Announcements?
+2. Josh wraps things up and we discuss our paper
 
 ## *Previous Weeks Readings*
 
@@ -140,7 +126,6 @@ TOPIC: Lichen symbiosis? - or are fungi just evil jails for helpless algae?
 AGENDA:
 1. Any Announcements?
 2. Discuss
-3. Discuss readings for next week
 
 Readings:
 1. [Tuovinen et al 2015 no support for occurence of free-living Cladonia mycobionts in dead wood](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Tuovinen%20et%20al%202015%20no%20support%20for%20occurence%20of%20free-living%20Cladonia%20mycobionts%20in%20dead%20wood.pdf)
@@ -161,7 +146,7 @@ Readings:
 TOPIC: Viruses? Just waiting around for something?
 
 AGENDA:
-1. Announcments?
+1. Announcements?
 2. Discuss Papers
 
 Readings:
@@ -172,7 +157,7 @@ Readings:
 TOPIC: "I got worms!" "....I beg your pardon?"
 
 AGENDA:
-1. Announcments?
+1. Announcements?
 2. Discuss Papers
 
 Readings:
@@ -183,7 +168,7 @@ Readings:
 TOPIC: Endophytes, symbionts, and the parasitism-mutualism continuum
 
 AGENDA:
-1. Announcments?
+1. Announcements?
 2. Discuss Papers
 3. Vent about things
 
@@ -191,10 +176,20 @@ Readings:
 1. [Fesel & Zuccaro 2016 dissecting endophytic lifestyle along the parasitism-mutualism continuum](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Fesel%20%26%20Zuccaro%202016%20dissecting%20endophytic%20lifestyle%20along%20the%20parasitism-mutualism%20continuum%20REVIEW.pdf)
 2. [Hall & Moverr 2017 fungal interactions with the human host - exploiting the spectrum of symbiosis](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Hall%20%26%20Moverr%202017%20fungal%20interactions%20with%20the%20human%20host%20-%20exploiting%20the%20spectrum%20of%20symbiosis%20REVIEW.pdf)
 
+### **WEEK 9**
+TOPIC: Have what we've been talking about all wrong? Are there clear divides in life history traits?
 
-### On Deck:
+AGENDA:
+1. Announcements?
+2. Discuss Paper
+
+Readings:
+1. [Karpinets et al 2014 metabolic environments and genomic features associated with pathogenic and mutualistic interaction](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Karpinets%20et%20al%202014%20metabolic%20environments%20and%20genomic%20features%20associated%20with%20pathogenic%20and%20mutualistic%20interactions.pdf)
+
+
+### On Deck (Maybe we won't read, but are of interest to the group):
 1. [Hibbett et al 2000 evolutionary instability of ectomycorrhizal symbioses in basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Hibbett%20et%20al%202000%20evolutionary%20instability%20of%20ectomycorrhizal%20symbioses%20in%20basidiomycetes.pdf)
 2. [Jones & Smith 2004 exploring functional definitions of mycorrhizas - are mycorrhizas always mutualisms](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Jones%20%26%20Smith%202004%20exploring%20functional%20definitions%20of%20mycorrhizas%20-%20are%20mycorrhizas%20always%20mutualisms.pdf)
 3. [Jones & Dangl 2006 The Plant Immune System](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Jones%20%26%20Dangl%202006%20the%20plant%20immune%20system%20REVIEW.pdf)
-4. [Keeling & McCutcheon 2017 Endosymbiosis - the feeling is not mutual](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Keeling%20%26%20McCutcheon%202017%20Endosymbiosis%20the%20feeling%20is%20not%20mutual.pdf)
+
 

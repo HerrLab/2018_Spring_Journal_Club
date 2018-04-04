@@ -32,8 +32,6 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 
 ## **Upcoming Reading Schedule**
 
-
-
 ### **WEEK 12**
 TOPIC: Metaorganisms ruling the world?
 
@@ -42,8 +40,8 @@ AGENDA:
 2. Discuss Papers
 
 Readings:
-1. [Bang et al 2018 metaorganisms in extreme environments do microbes play a role in organismal adaptation]()
-2. [Bosch & McFall-Ngai 2011 metaorganisms as the new frontier]()
+1. [Bang et al 2018 metaorganisms in extreme environments do microbes play a role in organismal adaptation](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Bang%20et%20al%202018%20metaorganisms%20in%20extreme%20environments%20do%20microbes%20play%20a%20role%20in%20organismal%20adaptation.pdf)
+2. [Bosch & McFall-Ngai 2011 metaorganisms as the new frontier](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Bosch%20%26%20McFall-Ngai%202011%20metaorganisms%20as%20the%20new%20frontier%20REVIEW.pdf)
 
 ### **WEEK 13**
 TOPIC: TBA

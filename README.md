@@ -32,39 +32,18 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 
 ## **Upcoming Reading Schedule**
 
-### **WEEK 10**
-TOPIC: Is it the Host or Microbe Genotype?
 
-AGENDA:
-1. Announcements?
-2. Discuss Papers
-3. Go over manuscript outline and writing duties
-
-Readings:
-1. [Redman et al 2001 fungal symbiosis from mutualism to parasitism - who controls the outcome - host or invader](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Redman%20et%20al%202001%20fungal%20symbiosis%20from%20mutualism%20to%20parasitism%20-%20who%20controls%20the%20outcome%20-%20host%20or%20invader.pdf)
-2. [Parker et al 2017 genotype specificity among hosts pathogens and beneficial microbes influences the strength of symbiont-mediated protection](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Parker%20et%20al%202017%20genotype%20specificity%20among%20hosts%20pathogens%20and%20beneficial%20microbes%20influences%20the%20strength%20of%20symbiont-mediated%20protection.pdf)
-
-### **WEEK 11**
-TOPIC: Things Fall Apart?
-
-AGENDA:
-1. Announcements?
-2. Discuss Papers
-
-Readings:
-1. [Douglas 2007 conflict cheats and the persistence of symbioses](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Douglas%202007%20conflict%20cheats%20and%20the%20persistence%20of%20symbioses%20REVIEW.pdf)
-2. [Keeling & McCutcheon 2017 Endosymbiosis - the feeling is not mutual](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Keeling%20%26%20McCutcheon%202017%20Endosymbiosis%20the%20feeling%20is%20not%20mutual.pdf)
 
 ### **WEEK 12**
-TOPIC: TBA
+TOPIC: Metaorganisms ruling the world?
 
 AGENDA:
 1. Announcements?
 2. Discuss Papers
 
 Readings:
-1. [TBA]()
-2. [TBA]()
+1. [Bang et al 2018 metaorganisms in extreme environments do microbes play a role in organismal adaptation]()
+2. [Bosch & McFall-Ngai 2011 metaorganisms as the new frontier]()
 
 ### **WEEK 13**
 TOPIC: TBA
@@ -185,6 +164,29 @@ AGENDA:
 
 Readings:
 1. [Karpinets et al 2014 metabolic environments and genomic features associated with pathogenic and mutualistic interaction](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Karpinets%20et%20al%202014%20metabolic%20environments%20and%20genomic%20features%20associated%20with%20pathogenic%20and%20mutualistic%20interactions.pdf)
+
+### **WEEK 10**
+TOPIC: Is it the Host or Microbe Genotype?
+
+AGENDA:
+1. Announcements?
+2. Discuss Papers
+3. Go over manuscript outline and writing duties
+
+Readings:
+1. [Redman et al 2001 fungal symbiosis from mutualism to parasitism - who controls the outcome - host or invader](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Redman%20et%20al%202001%20fungal%20symbiosis%20from%20mutualism%20to%20parasitism%20-%20who%20controls%20the%20outcome%20-%20host%20or%20invader.pdf)
+2. [Parker et al 2017 genotype specificity among hosts pathogens and beneficial microbes influences the strength of symbiont-mediated protection](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Parker%20et%20al%202017%20genotype%20specificity%20among%20hosts%20pathogens%20and%20beneficial%20microbes%20influences%20the%20strength%20of%20symbiont-mediated%20protection.pdf)
+
+### **WEEK 11**
+TOPIC: Things Fall Apart?
+
+AGENDA:
+1. Announcements?
+2. Discuss Papers
+
+Readings:
+1. [Douglas 2007 conflict cheats and the persistence of symbioses](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Douglas%202007%20conflict%20cheats%20and%20the%20persistence%20of%20symbioses%20REVIEW.pdf)
+2. [Keeling & McCutcheon 2017 Endosymbiosis - the feeling is not mutual](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Keeling%20%26%20McCutcheon%202017%20Endosymbiosis%20the%20feeling%20is%20not%20mutual.pdf)
 
 
 ### On Deck (Maybe we won't read, but are of interest to the group):

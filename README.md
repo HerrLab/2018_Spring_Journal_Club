@@ -32,27 +32,17 @@ April 25 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | 9 am | Josh
 
 ## **Upcoming Reading Schedule**
 
-### **WEEK 12**
-TOPIC: Metaorganisms ruling the world?
-
-AGENDA:
-1. Announcements?
-2. Discuss Papers
-
-Readings:
-1. [Bang et al 2018 metaorganisms in extreme environments do microbes play a role in organismal adaptation](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Bang%20et%20al%202018%20metaorganisms%20in%20extreme%20environments%20do%20microbes%20play%20a%20role%20in%20organismal%20adaptation.pdf)
-2. [Bosch & McFall-Ngai 2011 metaorganisms as the new frontier](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Bosch%20%26%20McFall-Ngai%202011%20metaorganisms%20as%20the%20new%20frontier%20REVIEW.pdf)
 
 ### **WEEK 13**
-TOPIC: TBA
+TOPIC: Coevolution? Hell Yeah!
 
 AGENDA:
 1. Announcements?
-2. Discuss Papers
+2. Discuss Paper
+3. Go over outline and writing assignments for the last week
 
 Readings:
-1. [TBA]()
-2. [TBA]()
+1. [Nelson & May 2017 coevolution between mutualists and parasites in symbiotic communities may lead to the evolution of lower virulence](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/)
 
 ### **WEEK 14**
 TOPIC: Wrapping the journal club up!
@@ -186,6 +176,16 @@ Readings:
 1. [Douglas 2007 conflict cheats and the persistence of symbioses](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Douglas%202007%20conflict%20cheats%20and%20the%20persistence%20of%20symbioses%20REVIEW.pdf)
 2. [Keeling & McCutcheon 2017 Endosymbiosis - the feeling is not mutual](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Keeling%20%26%20McCutcheon%202017%20Endosymbiosis%20the%20feeling%20is%20not%20mutual.pdf)
 
+### **WEEK 12**
+TOPIC: Metaorganisms ruling the world?
+
+AGENDA:
+1. Announcements?
+2. Discuss Papers
+
+Readings:
+1. [Bang et al 2018 metaorganisms in extreme environments do microbes play a role in organismal adaptation](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Bang%20et%20al%202018%20metaorganisms%20in%20extreme%20environments%20do%20microbes%20play%20a%20role%20in%20organismal%20adaptation.pdf)
+2. [Bosch & McFall-Ngai 2011 metaorganisms as the new frontier](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Bosch%20%26%20McFall-Ngai%202011%20metaorganisms%20as%20the%20new%20frontier%20REVIEW.pdf)
 
 ### On Deck (Maybe we won't read, but are of interest to the group):
 1. [Hibbett et al 2000 evolutionary instability of ectomycorrhizal symbioses in basidiomycetes](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Hibbett%20et%20al%202000%20evolutionary%20instability%20of%20ectomycorrhizal%20symbioses%20in%20basidiomycetes.pdf)

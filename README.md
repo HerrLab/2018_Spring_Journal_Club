@@ -42,7 +42,7 @@ AGENDA:
 3. Go over outline and writing assignments for the last week
 
 Readings:
-1. [Nelson & May 2017 coevolution between mutualists and parasites in symbiotic communities may lead to the evolution of lower virulence](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/)
+1. [Nelson & May 2017 coevolution between mutualists and parasites in symbiotic communities may lead to the evolution of lower virulence](https://github.com/HerrLab/2018_Spring_Journal_Club/blob/master/READINGS/Nelson%20%26%20May%202017%20coevolution%20between%20mutualists%20and%20parasites%20in%20symbiotic%20communities%20may%20lead%20to%20the%20evolution%20of%20lower%20virulence.pdf)
 
 ### **WEEK 14**
 TOPIC: Wrapping the journal club up!
